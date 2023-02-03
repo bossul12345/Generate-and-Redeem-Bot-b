@@ -59,4 +59,4 @@ async def redeem(ctx, key):
         em.add_field(name="Invalid Key", value="Inputed key has already been used!")
         await ctx.send(embed=em)
 
-bot.run('MTA1OTIxMzEzNzU4MjI0Mzg0MA.G-UGV5.gjPOlSQD_88Q68PStXcvTOaaqzZ4Q-l-XQZzWo')
+bot.run('MTA1OTIxMzEzNzU4MjI0Mzg0MA.Gyc0LJ.A7kzhucsmcFexZDoVwfm-EbnLJOPd8LzNrZUqE')
